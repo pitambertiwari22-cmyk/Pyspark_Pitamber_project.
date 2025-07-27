@@ -241,7 +241,7 @@ markdown
 Copy
 Edit
 # 🚀 Big Data Analysis using PySpark
-Link is availaible in pdf format :-file:///C:/Users/hp/Downloads/BigData_Analysis_Report.pdf
+https://github.com/pitambertiwari22-cmyk/Pyspark_Pitamber_project.
 ## 📌 Overview
 This project demonstrates the use of **PySpark** to process and analyze large datasets efficiently.  
 It performs **data cleaning, aggregation, and visualization** to derive meaningful insights.  
